@@ -1,0 +1,29 @@
+{
+  "name": "PDF Toolkit",
+  "short_name": "PDF Toolkit",
+  "description": "Tools that help you manage and manipulate PDF files.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#181818",
+  "theme_color": "#181818",
+  "icons": [
+    {
+      "src": "/android-chrome-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/android-chrome-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "/images/SS_1.png",
+      "type": "image/png",
+      "sizes": "800x1368"
+    }
+  ]
+}
