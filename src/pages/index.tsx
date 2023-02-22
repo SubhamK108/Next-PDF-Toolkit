@@ -13,22 +13,22 @@ export default function Home(): ReactElement {
         </div>
         <div className="h-[20rem] w-[26rem] max-sm:w-[23rem] flex flex-wrap flex-row justify-evenly items-center mt-6 text-3xl max-sm:text-2xl font-sans">
           <Link href="/pdf-merger">
-            <button className="rounded-lg bg-[#05336E] hover:bg-[#04234D] hover:ring hover:ring-[#074DA6] text-gray-200 m-5 p-4 h-28 w-40 max-sm:h-28 max-sm:w-36">
+            <button className="rounded-lg bg-[#05336E] hover:bg-[#04234D] hover:ring hover:ring-[#074DA6] text-gray-200 p-4 h-32 w-40 max-sm:h-32 max-sm:w-36">
               PDF Merger
             </button>
           </Link>
           <Link href="/pdf-extractor">
-            <button className="rounded-lg bg-[#05336E] hover:bg-[#04234D] hover:ring hover:ring-[#074DA6] text-gray-200 m-5 p-4 h-28 w-40 max-sm:h-28 max-sm:w-36">
-              PDF Extractor
+            <button className="rounded-lg bg-[#05336E] hover:bg-[#04234D] hover:ring hover:ring-[#074DA6] text-gray-200 p-4 h-32 w-40 max-sm:h-32 max-sm:w-36">
+              PDF Page Extractor
             </button>
           </Link>
           <Link href="/pdf-page-deleter">
-            <button className="rounded-lg bg-[#05336E] hover:bg-[#04234D] hover:ring hover:ring-[#074DA6] text-gray-200 m-5 p-4 h-28 w-40 max-sm:h-28 max-sm:w-36">
+            <button className="rounded-lg bg-[#05336E] hover:bg-[#04234D] hover:ring hover:ring-[#074DA6] text-gray-200 p-4 h-32 w-40 max-sm:h-32 max-sm:w-36">
               PDF Page Deleter
             </button>
           </Link>
           <Link href="/image-to-pdf">
-            <button className="rounded-lg bg-[#05336E] hover:bg-[#04234D] hover:ring hover:ring-[#074DA6] text-gray-200 m-5 p-4 h-28 w-40 max-sm:h-28 max-sm:w-36">
+            <button className="rounded-lg bg-[#05336E] hover:bg-[#04234D] hover:ring hover:ring-[#074DA6] text-gray-200 p-4 h-32 w-40 max-sm:h-32 max-sm:w-36">
               Image To PDF
             </button>
           </Link>
